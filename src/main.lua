@@ -15,14 +15,14 @@ events:on("OnPluginStart", function()
 end)
 
 function GetPluginAuthor()
-    return "moongetsu"
+    return "Swiftly Solution"
 end
 function GetPluginVersion()
     return "v1.0.0"
 end
 function GetPluginName()
-    return "Swiftly GoldMember (LUA)"
+    return "Swiftly Gold Member"
 end
 function GetPluginWebsite()
-    return "https://github.com/swiftly-solution/swiftly_awponly"
+    return "https://github.com/swiftly-solution/swiftly_goldmember"
 end
