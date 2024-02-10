@@ -22,7 +22,7 @@
 
 1. Download the newest [release](https://github.com/swiftly-solution/swiftly_goldmember/releases).
 2. Perform a drag-and-drop installation.
-3. Go in `addons/swiftly/configs/plugins/goldmember.json` and configure the plugin as you want.
+3. Go in `addons/swiftly/configs/plugins/goldmember.json` and read the [Plugin Configuration Tutorial](https://github.com/swiftly-solution/swiftly_goldmember/wiki/Plugin-Configuration-Tutorial) from the Wiki Page.
 
 ### Gold Member Benefits 🧐
 
