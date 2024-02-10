@@ -1,0 +1,34 @@
+{
+    "ServerDNS": "swiftlycs2.net",
+    "Benefits": {
+        "HP": 100,
+        "Armor": 100,
+        "Money": 0,
+        "DefuseKit": true,
+
+        "GoldMemberGrenades": {
+            "GiveGreandes": false,
+            "Grenades": {
+                "HighExplosive": 1,
+                "Smoke": 1,
+                "Flashbang": 1,
+                "Molotov_Incendiary": 1,
+                "Decoy": 0
+            }
+        },
+
+        "GoldMemberTag": {
+            "GiveScoreboardTag": true,
+            "Tags": [
+                "GoldMember",
+                "GoldMember2"
+            ]
+        }
+    },
+
+    "Messages": {
+        "TagMessage": "{lime}[Swiflty]{default} You selected {lime}%s tag{default}.",
+        "HasGoldMember": "{lime}[Swiflty]{default} Thank you for choosing to be a {lime}Gold Member{default}.",
+        "NoGoldMember": "{lime}[Swiflty]{default} Put {lime}%s {default}in your name to get {lime}Gold Member{default}."
+    }
+}
