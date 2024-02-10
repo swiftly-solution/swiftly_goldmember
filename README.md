@@ -40,6 +40,9 @@
 4. Push to the Branch
 5. Open a Pull Request
 
+### Known Issues 😶
+- HP is not working. (needs to be fixed from Swiftly)
+
 ### Have ideas? 💡
 Join [Swiftly Discord Server](https://swiftlycs2.net/discord)!
 
