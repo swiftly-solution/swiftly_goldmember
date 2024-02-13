@@ -18,6 +18,12 @@ function OnPlayerSpawnEvent()
                     player:weapons():GiveWeapons("item_defuser")
                 end
             end
+            
+            local givehealthshots = config:Fetch("goldmember.Benefits.Healtshot")
+            
+            for i = 1, givehealthshots do
+                player:weapons():GiveWeapons("weapon_healthshot")
+            end
 
             local givegrenades = config:Fetch("goldmember.Benefits.GoldMemberGrenades.GiveGreandes")
 
