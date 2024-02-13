@@ -4,9 +4,11 @@ function OnPlayerSpawnEvent()
         if not player then return end
 
         if HasDNS(player) then
-            player:health():Set(config:Fetch("goldmember.Benefits.HP"))
+            NextTick(function()
+                player:health():Set(config:Fetch("goldmember.Benefits.HP"))
+                player:armor():Set(config:Fetch("goldmember.Benefits.Armor"))
+            end)
             player:money():Set(player:money():Get() + config:Fetch("goldmember.Benefits.Money"))
-            player:armor():Set(config:Fetch("goldmember.Benefits.Armor"))
 
             local givedefusekit = config:Fetch("goldmember.Benefits.DefuseKit")
 
