@@ -5,6 +5,7 @@
         "Armor": 100,
         "Money": 0,
         "DefuseKit": true,
+        "HealthShot": 1,
 
         "GoldMemberGrenades": {
             "GiveGreandes": false,

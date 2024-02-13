@@ -19,7 +19,7 @@ function OnPlayerSpawnEvent()
                 end
             end
             
-            local givehealthshots = config:Fetch("goldmember.Benefits.Healtshot")
+            local givehealthshots = config:Fetch("goldmember.Benefits.HealthShot")
             
             for i = 1, givehealthshots do
                 player:weapons():GiveWeapons("weapon_healthshot")
