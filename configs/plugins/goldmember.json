@@ -30,6 +30,8 @@
     "Messages": {
         "TagMessage": "{lime}[Swiflty]{default} You selected {lime}%s tag{default}.",
         "HasGoldMember": "{lime}[Swiflty]{default} Thank you for choosing to be a {lime}Gold Member{default}.",
-        "NoGoldMember": "{lime}[Swiflty]{default} Put {lime}%s {default}in your name to get {lime}Gold Member{default}."
+        "NoGoldMember": "{lime}[Swiflty]{default} Put {lime}%s {default}in your name to get {lime}Gold Member{default}.",
+        "ReloadCommand": "{lime}[Swiftly] {default}The configuration has been {lime}reloaded{default}.",
+        "NoPremissions": "{lime}[Swiftly] {default}You don't have the {lime}permission {default}to use this command."
     }
 }
