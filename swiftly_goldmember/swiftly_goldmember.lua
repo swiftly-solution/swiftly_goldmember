@@ -18,7 +18,7 @@ function GetPluginAuthor()
     return "Swiftly Solution"
 end
 function GetPluginVersion()
-    return "v1.0.0"
+    return "v2.0.0"
 end
 function GetPluginName()
     return "Swiftly Gold Member"
