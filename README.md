@@ -48,6 +48,7 @@
 5. Open a Pull Request
 
 ### Known Issues 😶
+- HP is not working. (fixed in main)
 - Players have the benefits in pistol & half round
 
 ### Have ideas/Found bugs? 💡
