@@ -32,6 +32,7 @@
         "HasGoldMember": "{lime}[Swiflty]{default} Thank you for choosing to be a {lime}Gold Member{default}.",
         "NoGoldMember": "{lime}[Swiflty]{default} Put {lime}%s {default}in your name to get {lime}Gold Member{default}.",
         "ReloadCommand": "{lime}[Swiftly] {default}The configuration has been {lime}reloaded{default}.",
-        "NoPremissions": "{lime}[Swiftly] {default}You don't have the {lime}permission {default}to use this command."
+        "NoPremissions": "{lime}[Swiftly] {default}You don't have the {lime}permission {default}to use this command.",
+        "DisabledGoldMember": "{lime}[Swiftly] {default}Unfortunately, the benefits of the {lime}Gold Member {default}are {lime}deactivated {default}in this round."
     }
 }
