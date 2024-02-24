@@ -1,4 +1,4 @@
-<p align="center">
+Kv<p align="center">
   <a href="https://github.com/swiftly-solution/swiftly_goldmember">
     <img src="https://cdn.swiftlycs2.net/swiftly-logo.png" alt="SwiftlyLogo" width="80" height="80">
   </a>
@@ -47,12 +47,8 @@
 4. Push to the Branch
 5. Open a Pull Request
 
-### Known Issues 😶
-- HP is not working. (fixed in main)
-- Players have the benefits in pistol & half round
-
 ### Have ideas/Found bugs? 💡
-Join [Swiftly Discord Server](https://swiftlycs2.net/discord) and send a message in the topic from `📕╎plugins-sharing` of this plugin!
+Join [Swiftly Discord Server](https://swiftlycs2.net/discord) and send a message in the topic from `📕╎ plugins-sharing` of this plugin!
 
 
 ---
